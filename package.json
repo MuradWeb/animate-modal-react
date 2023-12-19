@@ -1,5 +1,5 @@
 {
-  "name": "animate-modal-react",
+  "name": "@MuradWeb/animate-modal-react",
   "private": false,
   "version": "1.0.0",
   "description": "",
@@ -28,6 +28,6 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-    "@YOUR_NAME:registry": "https://npm.pkg.github.com"
+    "@MuradWeb:registry": "https://npm.pkg.github.com"
   }
 }
